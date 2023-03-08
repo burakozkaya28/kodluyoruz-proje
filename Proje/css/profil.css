@@ -1,0 +1,168 @@
+#menu{
+    width: 1900px;
+    height: 100px;
+    background-color: orange;
+    margin: 10px auto;
+}
+#logo{
+    left:30px;
+    width: 400px;
+    height: 90px;
+    margin: 5px;
+    text-align: center;
+    float: left;
+}
+#logo>h1{
+    color: white;
+    font-size: 35px;
+    text-shadow: 20px;
+    
+}
+#menu2{
+    width: 600px;
+    margin: 70px;
+    height:30px;
+    float: left;
+    right: 100px;
+}
+.l1{
+    color: white;
+    text-decoration: none;
+    margin:20px;
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 10px;
+    transition: 0.5s;
+    
+    
+}
+.l1:hover{
+    transition: 0.5s;
+    background-color: gray;
+
+
+}
+#giris{
+    width: 130px;
+    height: 40px;
+    float: left;
+    margin: 30px;
+}
+.yazi1{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 0.5s;
+   
+}
+.yazi1:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
+#kayit{
+    width: 130px;
+    height: 40px;
+    float: left;
+    margin: 30px;
+}
+#arama{
+    width: 180px;
+    height: 40px;
+    float: left;
+    margin:30px;
+}
+input{
+    width: 170px;
+    height: 38px;
+    border-radius: 10px;
+
+}
+#profil{
+    width: 70px;
+    height: 80px;
+    float: left;
+    margin: 30px;
+
+}
+#profil_resmi{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border:1px solid gray;
+}
+#alt{
+    color:white;
+    background-color: black;
+    width: 1880px;
+    height: 60px;
+    margin: 30px auto;
+    padding: 10px;
+
+}
+#bosluk{
+    width: 1900px;
+    height: 200px;
+}
+
+#Kaynakca{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+#ana{
+    background-color:aliceblue;
+    width: 1900px;
+    height: 1600px;
+}
+#icerik{
+    width: 620px;
+    height: 1170px;
+    margin: 10px auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+#profil-foto{
+    width: 580px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: orange;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+}
+#profil-foto p{
+    font-size: 25px;
+    color: white;
+}
+#avatarlar{
+    width: 590px;
+    height: 700px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: orange;
+    margin: 50px auto;
+}
+#avatarlar h1{
+    color: white;
+}
+.kazanim{
+    width: 560px;
+    height: 200px;
+    background-color: white;
+    margin: 10px auto;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+.kazanim p{
+    font-size: 18px;
+}
+#r1{
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid orange;
+}

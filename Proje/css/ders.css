@@ -1,0 +1,257 @@
+#ders-icerigi{
+    width: 1000px;
+    height: 1500px;
+    background-color:white;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+#sinif9{
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    margin: 60px;
+    border-radius: 10px;
+    border:1px solid gainsboro;
+    transition:0.5s;
+    float: left;
+    
+}
+#sinif9>a{
+    font-size: 60px;
+    text-decoration: none;
+    font-style:bold;
+    color: black;
+    
+
+}
+#sinif9:hover{
+
+    transform: scale(1.05);
+    z-index: 2;
+    background-color: orange;
+
+}
+#sinif10{
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    margin: 60px;
+    border-radius: 10px;
+    border:1px solid gainsboro;
+    transition:0.5s;
+    float: left;
+    
+}
+#sinif10>a{
+    font-size: 60px;
+    text-decoration: none;
+    font-style:bold;
+    color: black;
+    
+
+}
+#sinif10:hover{
+
+    transform: scale(1.05);
+    z-index: 2;
+    background-color: orange;
+
+}
+#sinif11{
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    margin: 60px;
+    border-radius: 10px;
+    border:1px solid gainsboro;
+    transition:0.5s;
+    float: left;
+    
+}
+#sinif11>a{
+    font-size: 60px;
+    text-decoration: none;
+    font-style:bold;
+    color: black;
+    
+
+}
+#sinif11:hover{
+
+    transform: scale(1.05);
+    z-index: 2;
+    background-color: orange;
+
+}
+#sinif12{
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    margin: 60px;
+    border-radius: 10px;
+    border:1px solid gainsboro;
+    transition:0.5s;
+    float: left;
+    
+}
+#sinif12>a{
+    font-size: 60px;
+    text-decoration: none;
+    font-style:bold;
+    color: black;
+    
+
+}
+#sinif12:hover{
+
+    transform: scale(1.05);
+    z-index: 2;
+    background-color: orange;
+
+}
+#y1{
+    width: 940px;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+#y1>p{
+
+    font-size: 20px;
+}
+#y1>h2{
+
+    color:red;
+    text-align: center;
+    font-size: 26px;
+}
+#y1>h1{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+
+}
+#menu{
+    width: 1900px;
+    height: 100px;
+    background-color: orange;
+    margin: 10px auto;
+}
+#logo{
+    left:30px;
+    width: 400px;
+    height: 90px;
+    margin: 5px;
+    text-align: center;
+    float: left;
+}
+#logo>h1{
+    color: white;
+    font-size: 35px;
+    text-shadow: 20px;
+    
+}
+#menu2{
+    width: 600px;
+    margin: 70px;
+    height:30px;
+    float: left;
+    right: 100px;
+}
+.l1{
+    color: white;
+    text-decoration: none;
+    margin:20px;
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 10px;
+    transition: 0.5s;
+    
+    
+}
+.l1:hover{
+    transition: 0.5s;
+    background-color: gray;
+
+
+}
+#giris{
+    width: 130px;
+    height: 40px;
+    float: left;
+    margin: 30px;
+}
+.yazi1{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 0.5s;
+   
+}
+.yazi1:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
+#kayit{
+    width: 130px;
+    height: 40px;
+    float: left;
+    margin: 30px;
+}
+#arama{
+    width: 180px;
+    height: 40px;
+    float: left;
+    margin:30px;
+}
+input{
+    width: 170px;
+    height: 38px;
+    border-radius: 10px;
+
+}
+#profil{
+    width: 70px;
+    height: 80px;
+    float: left;
+    margin: 30px;
+
+}
+#profil_resmi{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border:1px solid gray;
+}
+#alt{
+    color:white;
+    background-color: black;
+    width: 1880px;
+    height: 60px;
+    margin: 30px auto;
+    padding: 10px;
+
+}
+
+#Kaynakca{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+#ana{
+    background-color:aliceblue;
+    width: 1900px;
+    height: 1950px;
+}
+#bosluk{
+    width: 1900px;
+    height: 200px;
+}
+body{
+    background-color:aliceblue;
+}
